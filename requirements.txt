@@ -1,0 +1,3 @@
+openai==0.27.2
+python-decouple==3.8
+wa-automate-socket-client==1.2.0
